@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinitagurani
 - 👀 I’m interested in learning full stack development 
-- 🌱 I’m currently learning Java and HTML
+- 🌱 I’m currently working as Technical consultant.
 - 💞️ I’m looking to collaborate on Java projects 
 - 📫 How to reach me vinitagurnani6@gmail.com
 
